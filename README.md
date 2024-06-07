@@ -3,6 +3,7 @@
 - **Frontend**: HTML, CSS, Javascript
 - **Version Control**: Git
 - **Hosting**: Vercel
+  https://searching-sorting-visualizer.vercel.app/
 
 ## ✨ Features :
 
